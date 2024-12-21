@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647818256865",
+    "project_id": "placementtask",
+    "storage_bucket": "placementtask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647818256865:android:a6a5a6f595b968a57ab2a0",
+        "android_client_info": {
+          "package_name": "com.placementtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2rVCHb1H1sZOg2pktyUdLslz1mknKSGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
